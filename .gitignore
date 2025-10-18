@@ -6,9 +6,6 @@ __pycache__/
 .env
 venv
 .ipynb_checkpoints/
-*.png
-*.csv
-*.pdf
 FarmBridge_A_Blockchain_and_AI-Driven_Platform _for_Transparent_Agricultural_Relief_Distribution.pdf
 FarmFund_-_A_Blockchain_based_Crowdfunding_App_for_Farmers.pdf
 IHSAN_A_Secure_and_Transparent_Crowdfunding_Platform_Leveraging_Comprehensive_Decentralized_Technologies.pdf
