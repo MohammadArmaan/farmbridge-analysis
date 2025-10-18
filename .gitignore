@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+venv
+.ipynb_checkpoints/
+
+FarmBridge_A_Blockchain_and_AI-Driven_Platform _for_Transparent_Agricultural_Relief_Distribution.pdf
+FarmFund_-_A_Blockchain_based_Crowdfunding_App_for_Farmers.pdf
+IHSAN_A_Secure_and_Transparent_Crowdfunding_Platform_Leveraging_Comprehensive_Decentralized_Technologies.pdf
+Blockchain_Applications_in_Disaster_Management_Systems.pdf
+Increasing_Donation_Transparency_in_Disaster_Relief_A_Blockchain-based_Solution.pdf
